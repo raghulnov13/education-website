@@ -101,9 +101,7 @@ header .container{
     z-index: 1;
     transition: 0.5s;
     gap: 30px;
-
 }
-
 .menu li {
     list-style-type: none;
 }
